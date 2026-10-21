@@ -1,0 +1,2 @@
+Recovery Test P04 berhasil.
+Proyek berhasil di-clone dari GitHub dan file index.html berhasil dibuka di browser.
