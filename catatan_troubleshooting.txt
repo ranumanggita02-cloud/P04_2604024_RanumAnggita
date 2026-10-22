@@ -1,0 +1,17 @@
+Catatan troubleshooting P04
+
+Nama: Ranum Anggita  Prima Guntoro
+NIM: 2604024
+Kelas: 1 Teknologi Informasi
+
+1.  Kendala: GitHub belum menerima push.
+    Solusi: Melakukan otorisasi GitHub, lalu mencoba push kembali.
+2.  Kendala: Pilihan Open with Live Server tidka tersedia.
+    Solusi: membuka index.html melalui terminal menggunakan perintah start index.html
+3.  Kendala: File recovery-proof.txt belum ada  di proyek asli.
+    Solusi: membuat file di folder Recovery-test, melakukan commit dan push, lalu menjalankan git pull origin master pada proyek asli
+4.  Kendala: File .gitignore belum tersedia.
+    membuat File .gitignore, menambahkan aturan folder yang diabaikan, lalu melakukan commit dan push
+
+Kesimpulan: 
+    Kendala dapat diatasi dengan memeriksa status Git dan menjalankan perintah yang sesuai. Proses clone, push, dan pull berhasil dilakukan.

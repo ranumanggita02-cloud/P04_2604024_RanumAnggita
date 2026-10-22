@@ -1,0 +1,18 @@
+REPOSITORY AUDIT 
+
+Nama Repository: P04_2604024_RanumAnggita
+Link GitHub: https://github.com/ranumanggita02-cloud/P04_2604024_RanumAnggita
+
+
+| No. | Aspek Pemeriksaan | Hasil |
+| 1 | Repository GitHub tersedia | Berhasil |
+| 2 | Riwayat commit tersedia | Berhasil |
+| 3 | File index.html dan style.css tersedia | Berhasil |
+| 4 | File .gitignore tersedia | Berhasil |
+| 5 | Clone repository berhasil | Berhasil |
+| 6 | recovery-proof.txt berhasil di-push dan di-pull | Berhasil |
+| 7 | Status Git proyek asli bersih | Berhasil |
+
+Kesimpulan:
+Repository sudah memiliki file proyek, riwayat commit, dan bukti Recovery Test. Status Git proyek asli menunjukkan working tree clean.
+
