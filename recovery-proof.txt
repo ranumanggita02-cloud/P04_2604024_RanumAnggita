@@ -1,2 +1,4 @@
-Recovery Test P04 berhasil.
-Proyek berhasil di-clone dari GitHub dan file index.html berhasil dibuka di browser.
+Nama : Ranum Anggita Prima Guntoro
+NIM : 2604024
+Bukti : Project berhasil dipulihkan dari remote repository.
+Penjelasan : File ini dibuat dari working copy hasil clone pada Pertemuan 4.
